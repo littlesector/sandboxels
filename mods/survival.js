@@ -5,7 +5,7 @@ if (!settings.survival) {
         "sapling": 1,
         "seeds": 5,
         "ice": 25,
-        "cloner": 1,
+        "cloner": 2,
     }
 }
 settings.survival.cloner = 1;
